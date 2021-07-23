@@ -1,9 +1,7 @@
 package com.br.natanfc.filmesflix.api
 
-import com.br.natanfc.filmesflix.model.Movie
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
-import retrofit2.create
 
 class MovieRestApiTask {
 
